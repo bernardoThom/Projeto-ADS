@@ -2,9 +2,12 @@
 
 ## Sobre Nós:
 
-## *Firewall*:
-Definição: Um firewall é um sistema de segurança de rede projetado para monitorar e controlar o tráfego de dados que entra e sai de uma rede ou dispositivo.
+## *Ataques, Conceitos e Tecnicas*:
 
-Funcionamento: Ele controla o tráfego de dados que entra e sai com base em um conjunto de regras predefinidas.
+Phishing: é uma técnica de fraude usada para enganar pessoas e obter informações confidenciais, como senhas, números de cartões de crédito ou dados bancários.
 
-Importância: Eles desempenham um papel crucial na proteção contra uma ampla gama de ameaças cibernéticas e na manutenção da integridade, confidencialidade e disponibilidade dos sistemas de TI.
+Malware: é um termo genérico que se refere a qualquer software desenvolvido para causar danos a sistemas, roubar informações ou interromper operações normais.
+
+Ataques DDoS: (Distributed Denial of Service): Sobrecarga de servidores para causar interrupções.
+
+Exploits e Vulnerabilidades: Exploits são técnicas ou códigos desenvolvidos para tirar proveito de vulnerabilidades ou falhas em software, sistemas operacionais ou hardware.
