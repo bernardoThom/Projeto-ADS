@@ -12,6 +12,15 @@ Ataques DDoS: (Distributed Denial of Service): Sobrecarga de servidores para cau
 
 Exploits e Vulnerabilidades: Exploits são técnicas ou códigos desenvolvidos para tirar proveito de vulnerabilidades ou falhas em software, sistemas operacionais ou hardware.
 
+
+## *HTTP/HTTPS*:
+O que são?: São dois protocolos fundamentais para a comunicação na web, e a principal diferença entre eles é a segurança.
+
+HTTP: Comunicação sem criptografia, vulnerável a interceptações.
+
+HTTPS: é uma versão segura do HTTP. O "S" no final de HTTPS significa "Secure" (seguro).
+
+
 ## *Criptografia*:
 Definição: Criptografia é uma técnica de segurança fundamental usada para proteger informações e comunicações. Ela transforma dados legíveis em um formato codificado que só pode ser decifrado por aqueles que possuem a chave apropriada.
 
@@ -19,4 +28,6 @@ Criptografia Simétrica: Criptografia simétrica é um método de criptografia e
 
 
 Criptografia Assimétrica: Criptografia assimétrica, também conhecida como criptografia de chave pública, é um método de criptografia que utiliza um par de chaves para proteger dados: uma chave pública e uma chave privada.
+
+
 
