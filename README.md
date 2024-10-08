@@ -30,4 +30,27 @@ Criptografia Simétrica: Criptografia simétrica é um método de criptografia e
 Criptografia Assimétrica: Criptografia assimétrica, também conhecida como criptografia de chave pública, é um método de criptografia que utiliza um par de chaves para proteger dados: uma chave pública e uma chave privada.
 
 
+## *Boas Práticas*:
+
+Senhas Fortes: Senhas fortes são essenciais para proteger suas contas e dados contra acesso não autorizado. Uma senha forte é uma combinação que é difícil de adivinhar ou quebrar por métodos de força bruta ou ataques de dicionário.
+
+Utilizar Sites confiáveis: Utilizar sites confiáveis é crucial para garantir a segurança e a privacidade ao navegar na internet, realizar transações online e acessar informações. Sites não confiáveis podem expor você a uma série de riscos, como fraudes, malware e roubos de dados.
+
+Backups: Backups regulares são uma prática essencial de segurança de dados que envolve criar cópias adicionais de informações importantes para garantir que você possa recuperá-las em caso de perda, corrupção ou danos.
+
+Controle de acesso: Controle de acesso é um componente fundamental da segurança da informação e da gestão de sistemas, responsável por assegurar que apenas pessoas ou sistemas autorizados possam acessar determinados recursos, dados ou áreas.
+
+## *Esteganografia*:
+
+Definição: Esteganografia é a prática de ocultar informações dentro de outras informações, de modo que a presença da mensagem oculta não seja perceptível. Ao contrário da criptografia, que transforma dados para torná-los ininteligíveis a quem não tem a chave para decifrá-los, a esteganografia se concentra em esconder a própria existência da mensagem.
+
+
+Esteganografia em imagens: A informação é embutida nos pixels de uma imagem digital. Alterações sutis nos valores dos pixels são usadas para codificar a mensagem. 
+
+Técnicas comuns: Least Significant Bit (LSB): Alterar o bit menos significativo de cada pixel para codificar a mensagem.
+
+
+
+
+
 
