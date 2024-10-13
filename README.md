@@ -56,5 +56,5 @@ Least Significant Bit (LSB): Alterar o bit menos significativo de cada pixel par
 *Prática:* https://stylesuxx.github.io/steganography/#decode
 
 *Artigos:* 
-https://www.kaspersky.com.br/resource-center/definitions/what-is-steganography
-https://lume.ufrgs.br/bitstream/handle/10183/36883/000819159.pdf?sequence=1 
+- https://www.kaspersky.com.br/resource-center/definitions/what-is-steganography
+- https://lume.ufrgs.br/bitstream/handle/10183/36883/000819159.pdf?sequence=1 
