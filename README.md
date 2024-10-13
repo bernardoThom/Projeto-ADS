@@ -27,11 +27,6 @@ Definição: Criptografia é uma técnica de segurança fundamental usada para p
 Criptografia Simétrica: Criptografia simétrica é um método de criptografia em que a mesma chave é usada tanto para criptografar quanto para descriptografar dados.
 Criptografia Assimétrica: Criptografia assimétrica, também conhecida como criptografia de chave pública, é um método de criptografia que utiliza um par de chaves para proteger dados: uma chave pública e uma chave privada.
 
-## *Criptografia Hash*:
-Ao que se refere?: Hash é um conceito fundamental em criptografia e segurança da informação. Ele refere-se a uma função que transforma dados de tamanho variável em uma representação de tamanho fixo, chamada de valor hash ou código hash.
-Qual sua função?
-Uma função hash é um algoritmo que pega uma entrada (ou "mensagem") e gera uma saída de comprimento fixo, geralmente em forma de uma sequência de caracteres alfanuméricos. O valor hash resultante é único para cada entrada única, ou pelo menos muito improvável de colidir com o valor hash de outra entrada.
-
 ## *Boas Práticas*:
 Senhas Fortes: Senhas fortes são essenciais para proteger suas contas e dados contra acesso não autorizado. Uma senha forte é uma combinação que é difícil de adivinhar ou quebrar por métodos de força bruta ou ataques de dicionário.
 Utilizar Sites confiáveis: Utilizar sites confiáveis é crucial para garantir a segurança e a privacidade ao navegar na internet, realizar transações online e acessar informações. Sites não confiáveis podem expor você a uma série de riscos, como fraudes, malware e roubos de dados.
