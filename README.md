@@ -42,3 +42,29 @@ Controle de acesso: Controle de acesso é um componente fundamental da seguranç
 Definição: Esteganografia é a prática de ocultar informações dentro de outras informações, de modo que a presença da mensagem oculta não seja perceptível. Ao contrário da criptografia, que transforma dados para torná-los ininteligíveis a quem não tem a chave para decifrá-los, a esteganografia se concentra em esconder a própria existência da mensagem.
 Esteganografia em imagens: A informação é embutida nos pixels de uma imagem digital. Alterações sutis nos valores dos pixels são usadas para codificar a mensagem. 
 Técnicas comuns: Least Significant Bit (LSB): Alterar o bit menos significativo de cada pixel para codificar a mensagem.
+
+## *Criptografia HASH*:
+Definição: Hash é um conceito fundamental em criptografia e segurança da informação. Ele refere-se a uma função que transforma dados de tamanho variável em uma representação de tamanho fixo, chamada de valor hash ou código hash.
+Uma função hash é um algoritmo que pega uma entrada (ou "mensagem") e gera uma saída de comprimento fixo, geralmente em forma de uma sequência de caracteres alfanuméricos. O valor hash resultante é único para cada entrada única, ou pelo menos muito improvável de colidir com o valor hash de outra entrada.
+
+*Prática:* https://www.md5hashgenerator.com/
+
+*Artigos:*
+- https://www.kaspersky.com.br/blog/hash-o-que-sao-e-como-funcionam/2773/ 
+- https://www.facom.ufu.br/~flavio/security/files/2013-01/04-Criptografia-Hash.pdf 
+- https://uniesp.edu.br/sites/_biblioteca/revistas/20170411124245.pdf 
+
+## *Esteganografia*:
+
+Definição: Esteganografia é a prática de ocultar informações dentro de outras informações, de modo que a presença da mensagem oculta não seja perceptível. Ao contrário da criptografia, que transforma dados para torná-los ininteligíveis a quem não tem a chave para decifrá-los, a esteganografia se concentra em esconder a própria existência da mensagem.
+
+*Esteganografia em Imagens:*
+A informação é embutida nos pixels de uma imagem digital. Alterações sutis nos valores dos pixels são usadas para codificar a mensagem.
+-Técnicas Comuns:
+Least Significant Bit (LSB): Alterar o bit menos significativo de cada pixel para codificar a mensagem.
+
+*Prática:* https://stylesuxx.github.io/steganography/#decode
+
+*Artigos:* 
+https://www.kaspersky.com.br/resource-center/definitions/what-is-steganography
+https://lume.ufrgs.br/bitstream/handle/10183/36883/000819159.pdf?sequence=1 
