@@ -1,7 +1,10 @@
-# Segurança da Informação
+# /////////////////////////////////ATENÇÂO////////////////////////////////
 
-## *Sobre Nós*:
-Somos estudantes de Análise e Desenvolvimento de Sistemas no UniSENAI de Blumenau, estamos no segundo semestre e viemos apresentar um pouco sobre  cibersegurança.
+## Você poderia ter caido em algum golpe e seus dados poderiam ter sido roubados.
+## Somos estudantes de Análise e Desenvolvimento de Sistemas no UniSENAI de Blumenau, estamos no segundo semestre e viemos lhe apresentar um informativo sobre cibersegurança.
+
+
+# Segurança da Informação
 
 ## *Objetivo Geral*:
 O objetivo da apresentação é fornecer uma visão geral sobre cibersegurança, abordando conceitos fundamentais, técnicas de defesa e aspectos práticos.
